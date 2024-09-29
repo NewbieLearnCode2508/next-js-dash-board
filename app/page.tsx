@@ -22,6 +22,9 @@ export default function Page() {
         })
       } >Hello world</span>
       <button onClick={() => setStatus(changeStatus(status))}>Click me</button> */}
+      
+      {/* ================================================================================== */}
+      
       <div className="flex h-20 shrink-0 items-end rounded-lg bg-blue-500 p-4 md:h-52">
         <AcmeLogo />
       </div>
